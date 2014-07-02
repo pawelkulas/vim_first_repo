@@ -6,4 +6,4 @@
 	url = https://github.com/scrooloose/nerdtree
 [submodule "bundle/solarized"]
 	path = bundle/solarized
-	url = https://github.com/altercation/solarized
+	url = https://github.com/altercation/vim-colors-solarized
